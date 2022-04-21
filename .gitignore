@@ -5,3 +5,5 @@ primefaces-e-jsf/.settings
 primefaces-e-jsf/WebContent
 primefaces-e-jsf/__MACOSX
 primefaces-e-jsf/build
+
+**/node_modules
