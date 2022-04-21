@@ -7,3 +7,6 @@ primefaces-e-jsf/__MACOSX
 primefaces-e-jsf/build
 
 **/node_modules
+
+**/.mvn
+**/bin
